@@ -5,5 +5,7 @@
     echo "<br>";
     echo "Sekolah : SMK TarunaBhakti Depok";
     echo "<br>";
-    echo "Alamat  : Jl.Masjid Al-islah Cisalak Rt/Rw 01/08";
+    echo "Nomor Hp : 085711961529";
+    echo "<br>";
+    echo "Email    : rosiyana949@gmail.com";
 ?>

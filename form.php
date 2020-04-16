@@ -103,6 +103,7 @@ $result = $con->query(" SELECT * FROM `master` ");
   <?php } ?>
 
   <td class="bg-warning">
+     <a class="text-white" href="edit.php?key=<?php echo $data['kode_produk']; ?>">Edit</a>    |
      <a class="text-white" href="delete.php?key=<?php echo $data['kode_produk']; ?>">Delete</a>
   </td>
 </tr>
